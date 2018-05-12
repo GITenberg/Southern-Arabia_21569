@@ -1,0 +1,38 @@
+_repo: Southern-Arabia_21569
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Bent, J. Theodore (James Theodore)
+    aliases:
+    - Bent, James Theodore
+    - Bent, Theodore
+    birthdate: 1852
+    deathdate: 1897
+    gutenberg_agent_id: '24790'
+    url: http://www.gutenberg.org/2009/agents/24790
+  - agent_name: Bent, Theodore, Mrs.
+    alias: Bent, Mabel Virginia Anna
+    deathdate: 1929
+    gutenberg_agent_id: '24791'
+    url: http://www.gutenberg.org/2009/agents/24791
+description: The author, well established as a travel writer and archaeologist, undertook
+  this journey with his wife, making seven journeys in all around the southern part
+  of Arabia including Oman and Dhofar which from 1893 to the end of his life he made
+  his special field for observation and travel.
+gutenberg_issued: '2007-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21569'
+  lccn: 05010108
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Arabian Peninsula -- Description and travel'
+title: Southern Arabia
+url: http://www.gutenberg.org/ebooks/21569
